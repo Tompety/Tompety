@@ -14,6 +14,19 @@ my first markdown dairy
 ==========
 my recent target
 -----
+1、learn markdown algrythm
+#
+2、proctice in github
+#
+3、use markdown during dev and daily work
+#
+
+    if(mystatus == true) {
+        printf("this is my first markdown on github");
+    }
+
+
+
 my plan
 -----
 my date record
